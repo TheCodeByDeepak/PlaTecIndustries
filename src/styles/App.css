@@ -1,0 +1,21 @@
+/* Ensure the whole app takes full height */
+html, body, #root {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    
+  }
+  
+  /* Make App container flex column */
+  .app-container {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+  }
+  
+  /* Let main content grow */
+  .main-content {
+    flex: 1;
+    background-color: #f0f6ff;
+  }
+  
