@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/PlaTecIndustries/static/css/main.f8836d6b.css",
-    "main.js": "/PlaTecIndustries/static/js/main.2672322e.js",
+    "main.js": "/PlaTecIndustries/static/js/main.4671e3fd.js",
     "static/js/453.be774ce4.chunk.js": "/PlaTecIndustries/static/js/453.be774ce4.chunk.js",
     "static/media/team2.png": "/PlaTecIndustries/static/media/team2.d6672b70a6dd34e9cf43.png",
     "static/media/team1.png": "/PlaTecIndustries/static/media/team1.61efc374c051aedae865.png",
@@ -28,11 +28,11 @@
     "static/media/slick.woff": "/PlaTecIndustries/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/PlaTecIndustries/index.html",
     "main.f8836d6b.css.map": "/PlaTecIndustries/static/css/main.f8836d6b.css.map",
-    "main.2672322e.js.map": "/PlaTecIndustries/static/js/main.2672322e.js.map",
+    "main.4671e3fd.js.map": "/PlaTecIndustries/static/js/main.4671e3fd.js.map",
     "453.be774ce4.chunk.js.map": "/PlaTecIndustries/static/js/453.be774ce4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f8836d6b.css",
-    "static/js/main.2672322e.js"
+    "static/js/main.4671e3fd.js"
   ]
 }
